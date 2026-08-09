@@ -1,5 +1,5 @@
 {
-  "mongoURI": "",
+  "mongoURI": "mongodb+srv://<db_username>:5G55zRunIIMuquPc@cluster0.q5deucq.mongodb.net/?appName=Cluster0",
   "ownerID": "100037743553265",
   "adminIDs": [
     "100037743553265",
@@ -10,7 +10,7 @@
     "SUPPORT_ID_2"
   ],
   "adminInboxThreadID": "6567071300016227",
-  "prefix": "/",
+  "prefix": ".",
   "fcaOptions": {
     "forceLogin": false,
     "updatePresence": true,
@@ -24,7 +24,7 @@
     "autoReconnect": true,
     "userAgent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 CrKey/1.54.250320"
   },
-  "botNickname": "FB Bot",
+  "botNickname": "MAHI NOOR",
   "commandEnabled": true,
   "eventEnabled": true,
   "announceImageChange": true,
